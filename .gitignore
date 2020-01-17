@@ -1,0 +1,4 @@
+# ignore these
+/*.tmp
+/build
+/.gradle
