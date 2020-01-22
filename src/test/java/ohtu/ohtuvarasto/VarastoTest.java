@@ -141,7 +141,7 @@ public class VarastoTest {
     public void alkuSaldoSamaKuinTilavuus() {
         varasto = new Varasto(5,5);
 
-        assertEquals(51, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(5, varasto.getSaldo(), vertailuTarkkuus);
 
     }
 }
